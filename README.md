@@ -1,4 +1,4 @@
-# ISIC_Challange_2018
+# ISIC Challange 2018 - Task 2
 Code used for the 2018 ISIC dataset challange
 
 Dataset available at:
